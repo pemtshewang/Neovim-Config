@@ -1,7 +1,7 @@
-# My neovim config { init.vim }
+# My neovim config file { init.vim }
 
 - Thanks Steven Losh for his wonderful book *Learn Vimscript the hardway*
-- I am able to create my own vimrc and neccesssary nvim key mappings that had helped me a lot
+- I am able to create my own vimrc and necessary nvim key mappings that had helped me a lot
 
 ```vim
 set relativenumber
